@@ -1,5 +1,6 @@
 # Predict activity quality from activity monitors
-Ricardo A. Garcia Osio  07 October 2020  
+Ricardo A. Garcia Osio  
+07 October 2020  
 
 ##Synopsis
 
